@@ -12,6 +12,7 @@
   "devDependencies": {
     "@nuxt/devtools": "latest",
     "@nuxt/ui": "^2.10.0",
+    "@types/ms": "^2.1.0",
     "nodemon": "^3.0.1",
     "nuxt": "^3.8.0",
     "vue": "^3.3.7",
