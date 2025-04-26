@@ -1,8 +1,4 @@
-# desafio-rentcars
-
 ![print da tela](public/print_da_tela.png)
-
-### Projeto proposto pela RentCars para um processo seletivo.
 
 Como foi proposto para o Backend, utilizei node.js, com as dependências express mysql2, sequelize e nodemon.
 No Frontend, considerei utilizar o framework Nuxt, Vue3.
